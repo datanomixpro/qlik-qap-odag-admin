@@ -1,0 +1,15 @@
+{
+    "type": "mashup",
+    "name": "qlik-qap-odag-admin",
+    "description": "Admin panel (mashup) for ODAG link management in the QAP (Qlik Analytics Platform)",
+    "homepage": "",
+    "author": "",
+    "version": "1.0.0",
+    "preview": "preview.png",
+    "keywords": "qlik-sense, mashup, ODAG, QAP",
+    "license": "https://github.com/datanomixpro/qlik-qap-odag-admin/blob/main/LICENSE",
+    "repository": "https://github.com/datanomixpro/qlik-qap-odag-admin",
+    "dependencies": {
+        "qlik-sense": ">=1.0.x"
+    }
+}
