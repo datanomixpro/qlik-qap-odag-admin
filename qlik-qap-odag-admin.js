@@ -843,6 +843,9 @@ require( ["js/qlik"], function ( qlik ) {
             .then(() => {
                 fetchCache.dynamicappviewList.forEach((dynamicappview, index) => {
                     const id = dynamicappview.qInfo.qId;
+                    // Get the name of the referenced link
+                    const odagLinkRef = dynamicappview.qMeta.odagLinkRef;
+                    const linkObj = fetchCache.links.find(link => link.id === odagLinkRef);
                     const linkName = linkObj && linkObj.name;
                     $dynamicappviewID.append(`<option ${index === 0 ? "selected" : ""} value="${id}">${id} (${linkName || "Not Found"})</option>`);
                 });
