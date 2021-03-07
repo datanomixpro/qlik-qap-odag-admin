@@ -6,5 +6,8 @@ Helps to fix issues after moving an app with Dynamic Views, ODAG to a QAP enviro
 When a Dynamic View App is moved, the ODAG link and selection app link need to be recreated. 
 But QAP doesn't have UI for doing that, thats why this can be performed with the specific API calls.  
 
+Mashup is an admin UI for the ODAG link management in the QAP (Qlik Analytics Platform). 
+
+
 Links:
 - https://community.qlik.com/t5/Support-Knowledge-Base/Qlik-Sense-Move-an-app-with-Dynamic-Views-to-a-QAP-environment/ta-p/1775945
