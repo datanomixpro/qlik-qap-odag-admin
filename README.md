@@ -8,6 +8,10 @@ But QAP doesn't have UI for doing that, thats why this can be performed with the
 
 Mashup is an admin UI for the ODAG link management in the QAP (Qlik Analytics Platform). 
 
+**How to use? ** 
+
+Just import ZIP in the QMC and open mashup from the dev-hub page.
+
 
 Links:
 - https://community.qlik.com/t5/Support-Knowledge-Base/Qlik-Sense-Move-an-app-with-Dynamic-Views-to-a-QAP-environment/ta-p/1775945
