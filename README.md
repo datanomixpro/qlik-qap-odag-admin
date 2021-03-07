@@ -15,3 +15,4 @@ Just import ZIP in the QMC and open mashup from the dev-hub page.
 
 Links:
 - https://community.qlik.com/t5/Support-Knowledge-Base/Qlik-Sense-Move-an-app-with-Dynamic-Views-to-a-QAP-environment/ta-p/1775945
+- https://apolorotov.medium.com/qlik-sense-move-an-app-with-dynamic-views-or-odag-to-a-qap-ad4544363c48
