@@ -3,12 +3,12 @@ Admin panel (mashup) for ODAG link management in the QAP (Qlik Analytics Platfor
 
 Helps to fix issues after moving an app with Dynamic Views, ODAG to a QAP environment.
 
-When a Dynamic View App is moved, the ODAG link and selection app link need to be recreated. 
-But QAP doesn't have UI for doing that, thats why this can be performed with the specific API calls.  
+When an app whith DynamicViews, ODAG is moved, the ODAG link and selection app link need to be recreated. 
+Otherwise there is an error. But QAP doesn't have UI for doing that, thats why this can be performed with the specific API calls.  
 
 Mashup is an admin UI for the ODAG link management in the QAP (Qlik Analytics Platform). 
 
-**How to use? ** 
+**How to use?** 
 
 Just import ZIP in the QMC and open mashup from the dev-hub page.
 
