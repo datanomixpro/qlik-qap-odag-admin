@@ -10,7 +10,8 @@ Mashup is an admin UI for the ODAG link management in the QAP (Qlik Analytics Pl
 
 **How to use?** 
 
-Just import ZIP in the QMC and open mashup from the dev-hub page.
+Just import ZIP in the QMC and open mashup from the dev-hub page. 
+And follow instruction - https://apolorotov.medium.com/qlik-sense-move-an-app-with-dynamic-views-or-odag-to-a-qap-ad4544363c48
 
 
 Links:
